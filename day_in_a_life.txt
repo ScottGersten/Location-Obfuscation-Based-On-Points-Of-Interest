@@ -1,0 +1,10 @@
+y
+100
+1726 East Preston Street, Baltimore
+0.5
+1000 Hilltop Circle
+0.5
+210 East Centre Street, Baltimore
+0.5
+1204 West Mt Royal Avenue, Baltimore
+0.5
